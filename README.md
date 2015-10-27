@@ -1,4 +1,4 @@
-# alsa_jack
+# alsa_jack_gui
 a qt-based gui to manage *alsa_in* and *alsa_out* daemons
 
 ## Features
