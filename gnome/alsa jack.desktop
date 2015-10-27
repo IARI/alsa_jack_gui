@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Terminal=false
+Name=alsa jack
+Comment=gui client for alsa_in and alsa_out
+StartupNotify=true
+Exec=python3 /home/iari/alsa_jack_gui/alsa_jack.py
+Icon=alsa_jack
+Categories=Sound;Audio;Jack
