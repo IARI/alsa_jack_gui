@@ -58,4 +58,4 @@ run the lightshow script from lightshow directory :
 	
 ## Contact
 
-Feel free to send an email to j.jarecki@gmx.de if you have any questions, remarks or if you find a bug.
+Feel free to send an email to julian.jarecki@gmail.com if you have any questions, remarks or if you find a bug.
